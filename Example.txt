@@ -1,1 +1,5 @@
-This is a a example text
+This is a a example text1
+
+Below are the feature we are going to implement:
+Login Screen
+Home Screen -> Catalog -> Product
